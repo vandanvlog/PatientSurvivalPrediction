@@ -2,9 +2,9 @@
 This project aims to predict patient survival outcomes based on clinical and demographic data, using exploratory data analysis (EDA) and a range of supervised machine learning models.
 
 🔍 Dataset Overview
-The dataset consists of 91,000 rows and 85 columns, each representing a patient and various clinical indicators such as age, sex, treatment type, and survival status.
-The target variable is a binary indicator of patient survival (1 = Survived, 0 = Did not survive).
-Data imbalance was observed (approximately 72% survived, 28% did not survive), prompting careful metric selection beyond accuracy.
+The dataset consists of 91,000 rows and 85 columns, each representing a patient and various clinical indicators such as age, sex, treatment type, and survival status.\n
+The target variable is a binary indicator of patient survival (1 = Survived, 0 = Did not survive).\n
+Data imbalance was observed (approximately 72% survived, 28% did not survive), prompting careful metric selection beyond accuracy.\n
 
 📊 Analytical Overview
 EDA & Preprocessing:
